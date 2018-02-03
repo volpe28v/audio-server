@@ -1,0 +1,14 @@
+{
+  "name": "audio-server",
+  "version": "1.0.0",
+  "description": "オーディオファイルのURLを返すAPI",
+  "main": "app.js",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.15.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node app.js"
+  }
+}
